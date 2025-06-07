@@ -19,6 +19,9 @@ Maven (for dependency management)
 
 Screenshots
 
+![image](https://github.com/user-attachments/assets/999f42aa-582f-443b-a2f8-bb8c83afe668)
+
+
 Installation
 Clone the repository:
 git clone https://github.com/Generalbloopers/ToDoListApp.git
